@@ -1,2 +1,3 @@
 # git4testrepo
-hello branch 1
+some new code added branch 2
+
